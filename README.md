@@ -86,3 +86,6 @@ Cooling Fan Number: 0
 T1; Activate Extruder 2
 ### Extruder End G-code
 M104 S0 ; turn off extruder
+
+
+** Try to find the correct offsets for your own 3D Printer (Follow the instruction in printer user manual)**
