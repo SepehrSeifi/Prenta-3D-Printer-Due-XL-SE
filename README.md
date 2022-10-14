@@ -77,9 +77,9 @@ Nozzle size: 0.4 mm
 
 Compatible material diameter: 1.75 mm
 
-Nozzle offset X: 17 mm
+Nozzle offset X: 18 mm
 
-Nozzle offset Y:  0.08 mm
+Nozzle offset Y:  0 mm
 
 Cooling Fan Number: 0
 ### Extruder Start G-code
