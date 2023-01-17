@@ -1,4 +1,4 @@
-For checking the information on how to add the 3D Printer profile in CURA see [HERE](https://github.com/SepehrSeifi/Prenta-3D-Printer-Due-XL-SE/blob/main/README.md)
+For checking the information on how to add the 3D Printer profile in Ultimaker CURA software see [HERE](https://github.com/SepehrSeifi/Prenta-3D-Printer-Due-XL-SE/blob/main/README.md)
 
 # Octo Print
 IP address to Octoprint page:
