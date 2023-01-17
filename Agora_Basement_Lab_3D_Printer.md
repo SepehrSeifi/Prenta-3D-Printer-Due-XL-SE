@@ -1,7 +1,7 @@
 # Octo Print
 IP address to Octoprint page:
 
-130.232.102.228
+[130.232.102.228](http://130.232.102.228/)
 
 ** Remember to use UTU vpn if you want to connect using the internet outside of university ** 
 
