@@ -1,3 +1,5 @@
+For checking the information on how to use the 3D Printer in Agora Basement Lab see [HERE](https://github.com/user/repo/blob/branch/other_file.md)
+
 # Prenta-3D-Printer-Due-XL-SE
 Settings for Prenta 3D Printer Due XL SE
 
