@@ -16,7 +16,7 @@ password: utu
 
 # Extra Information
 
-You can easily monitor printing process using the printer webcam on Octoprint page.
+You can easily monitor printing process using the printer webcam on Octoprint page under "Control" tab.
 
 ### *** NEVER LEAVE THE PRINTER COMPELETELY UNATTENDED WHILE PRINTING ***
 
