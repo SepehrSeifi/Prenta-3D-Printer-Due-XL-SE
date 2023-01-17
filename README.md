@@ -1,4 +1,4 @@
-For checking the information on how to use the 3D Printer in Agora Basement Lab see [HERE](https://github.com/SepehrSeifi/Prenta-3D-Printer-Due-XL-SE/blob/main/Agora_Basement_Lab_3D_Printer)
+For checking the information on how to use the 3D Printer in Agora Basement Lab see [HERE](https://github.com/SepehrSeifi/Prenta-3D-Printer-Due-XL-SE/blob/main/Agora_Basement_Lab_3D_Printer.md)
 
 # Prenta-3D-Printer-Due-XL-SE
 Settings for Prenta 3D Printer Due XL SE
