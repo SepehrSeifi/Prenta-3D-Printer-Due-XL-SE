@@ -20,4 +20,4 @@ You can easily monitor printing process using the printer webcam on Octoprint pa
 
 ### *** NEVER LEAVE THE PRINTER COMPELETELY UNATTENDED WHILE PRINTING ***
 
-** In case of failure in printer process or any other emergency situation you can turn of the printer using the printer icon [printer icon](3d-printer.png) on the top right **
+** In case of failure in printer process or any other emergency situation you can turn of the printer using the printer icon ![printer icon](3d-printer.png) on the top right **
